@@ -23,6 +23,8 @@ Intensive Coursework Lv2. Team2
 
 ### 이벤트 도출
 
+![image](https://user-images.githubusercontent.com/9324206/118632768-b540b580-b80b-11eb-9f03-0117923079a4.png)
+
 ### 부적격 이벤트 탈락
 
 ### 액터, 커맨드 부착하여 읽기 좋게 표현
